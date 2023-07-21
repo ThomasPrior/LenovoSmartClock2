@@ -26,9 +26,10 @@ I put together this guide as a product of following many guides and trying diffe
  ⚠️⚠️ Soldering this incorrectly or placing the data pins in contact with the power positions on the device can cause serious damage to your device. Be sure you are connecting the right pins to the right cables! ⚠️⚠️
 
 ![image](https://github.com/ThomasPrior/LenovoSmartClock2/assets/34111848/ac314a92-8c29-4dab-bbca-5e357bd118a4)
+
 (Photo credit bj00rn @ XDA Developers)
 
-AS SHOWN IN THE PICTURE ABOVE, with the wide side of the case horizontal and the connector at upper left:
+AS SHOWN IN THE PICTURE ABOVE, with the wide side of the case horizontal and the connector at upper left, assuming correct usage of colours inside the USB cable:
 
 | DP \/ Green | DM \/ White |
 | ---      | ---       |
