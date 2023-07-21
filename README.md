@@ -5,7 +5,7 @@ This guide focuses on Ubuntu 23.04.
 
 I recommend using Ubuntu over Windows purely because there are no shifty third-party-drivers-from-untrustworthy-website shenanigans required to get the clock recognised in Ubuntu.
 
-I put together this guide as a product of following many guides and trying different things, seeing what works and what doesn't, and trying to rectify those problems. Most noteably the outdated webview component was causing issues when trying to use the HomeAssistant companion app, so I needed to find a way to install a more modern webview. HomeAssistant also does not play well with Bromite, so existing guides to install that were not of use to me.
+I put together this guide as a product of following many guides and trying different things, seeing what works and what doesn't, and trying to rectify those problems. Most noteably the outdated webview component was causing issues when trying to use the HomeAssistant companion app, so I needed to find a way to install a more modern webview. [HomeAssistant also does not play well with Bromite](https://community.home-assistant.io/t/issue-with-bromite-webview-and-reverse-proxy/316393/3?u=thomasprior), so existing guides to install that were not of use to me.
 
 # Pre-requisites
 
