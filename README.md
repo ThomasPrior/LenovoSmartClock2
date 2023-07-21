@@ -163,7 +163,7 @@ My process which differs slightly is written below: </summary>
 
 ```adb pull /sdcard/Download/boot.patched```
 
-##Unlock the bootloader
+#### Unlock the bootloader
 
 1. Erase metadata and userdata:
 
@@ -196,7 +196,7 @@ My process which differs slightly is written below: </summary>
 You may stop here if that's all you were intending to do. This method of root survives reboots and factory resets.
 
 
-## Install updated WebView component
+#### Install updated WebView component
 
 I used the following files to install a more modern WebView:
 
