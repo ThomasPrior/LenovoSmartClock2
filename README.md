@@ -267,3 +267,7 @@ adb shell pm grant com.arlosoft.macrodroid android.permission.SYSTEM_ALERT_WINDO
 6. Set up Home Assistant to your liking.
 
 Upon reboot, your device will now open Home Assistant immediately after the device has fully booted. The launcher may show briefly. 
+
+## Enable Wireless ADB
+
+Follow the instructions at https://github.com/mrh929/magisk-wifiadb
