@@ -271,3 +271,22 @@ Upon reboot, your device will now open Home Assistant immediately after the devi
 ## Enable Wireless ADB
 
 Follow the instructions at https://github.com/mrh929/magisk-wifiadb
+
+## Optional: Remove built in apps
+
+### Remove built in apps
+ - Install and enable Magisk module https://github.com/sunilpaulmathew/De-Bloater
+ - Rebbot
+ - Open De-Bloater app and select all com.google.assistant.* and com.lenovo.* and apks to your liking.
+ - Reboot
+
+### Restore built in apps
+
+**Option 1**
+  - Open De-bloater app
+  - Restore debloated apps
+  - Reboot
+
+**Option 2**
+  - Disable Magisk De-Bloater module
+  - Reboot
