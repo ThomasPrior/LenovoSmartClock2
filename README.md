@@ -290,3 +290,12 @@ Follow the instructions at https://github.com/mrh929/magisk-wifiadb
 **Option 2**
   - Disable Magisk De-Bloater module
   - Reboot
+
+## Optional: Add navigation bar
+
+  - Download the [VirtualSoftKeys app from F-Droid](https://f-droid.org/en/packages/tw.com.daxia.virtualsoftkeys/)
+  - Grant the "display over other apps" permission
+
+    ```adb shell pm grant tw.com.daxia.virtualsoftkeys android.permission.SYSTEM_ALERT_WINDOW```
+
+  - Open the app, follow the on screen prompts to configure the nav bar to your liking.
