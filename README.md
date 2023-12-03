@@ -299,3 +299,33 @@ Follow the instructions at https://github.com/mrh929/magisk-wifiadb
     ```adb shell pm grant tw.com.daxia.virtualsoftkeys android.permission.SYSTEM_ALERT_WINDOW```
 
   - Open the app, follow the on screen prompts to configure the nav bar to your liking.
+
+## Optional: Install microG services
+
+  - Push microG Installer Revived to sdcard
+
+    ```adb push microG_Installer_Revived.zip /sdcard/Download```
+
+  - Push LSPosed framework to sdcard
+
+    ```adb push LSPosed-v1.8.6-6712-zygisk-release.zip /sdcard/Download```
+
+  - Install the LSPosed app:
+
+    ```adb install LSPosed_1.8.6.apk```
+
+  - Open the Magisk app and enable Zygisk from Magisk's settings.
+  - Reboot
+  - Open the Magisk app and install both modules from storage.
+  - Reboot
+  - Open the LSPosed app
+  - Follow the steps to enable signature spoofing: https://github.com/microg/GmsCore/wiki/Signature-Spoofing
+  - Push the FakeGapps package to sdcard https://github.com/whew-inc/FakeGApps/releases
+
+    ```adb push app-release.zip /sdcard/Download```
+
+  - Open LSPosed and enable the FakeGapps modules
+  - Reboot
+  - Open microG settings and observe whether the self-check passes. All checks should now pass if done correctly.
+
+  🎉 You can now add a Google account, register the device, enroll in cloud messaging and run apps that rely on the gApps package like Youtube Music.
