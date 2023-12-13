@@ -7,6 +7,10 @@ I recommend using Ubuntu over Windows purely because there are no shifty third-p
 
 I put together this guide as a product of following many guides and trying different things, seeing what works and what doesn't, and trying to rectify those problems. Most noteably the outdated webview component was causing issues when trying to use the HomeAssistant companion app, so I needed to find a way to install a more modern webview. [HomeAssistant also does not play well with Bromite](https://community.home-assistant.io/t/issue-with-bromite-webview-and-reverse-proxy/316393/3?u=thomasprior), so existing guides to install that were not of use to me.
 
+## Pre-configured units
+
+🛍️ I have a small number of pre-rooted units available for purchase via [eBay UK](https://www.ebay.co.uk/itm/126111519135).
+
 # Pre-requisites
 
 - A USB cable
