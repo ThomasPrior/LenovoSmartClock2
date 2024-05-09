@@ -9,7 +9,9 @@ I put together this guide as a product of following many guides and trying diffe
 
 ## Pre-configured units
 
-🛍️ I have a small number of pre-rooted units available for purchase via [eBay UK](https://www.ebay.co.uk/itm/126111519135).
+🛍️ I have a small number of pre-rooted units available for purchase: [eBay UK - Preconfigured](https://www.ebay.co.uk/itm/126474480322).
+
+I also offer a mail-in rooting service if you own a Lenovo Smart Clock 2 already: [eBay UK - Mail-In Rooting Service](https://www.ebay.co.uk/itm/126451518727)
 
 # Pre-requisites
 
@@ -184,7 +186,7 @@ My process which differs slightly is written below: </summary>
 
 4. Reboot the clock by removing the power cable and plugging it back in.
 
-##Flash the patched boot image
+## Flash the patched boot image
 
 1. Flash the boot.patched file to the clock:
 
