@@ -9,7 +9,7 @@ I put together this guide as a product of following many guides and trying diffe
 
 ## Pre-configured units
 
-🛍️ I have a small number of pre-rooted units available for purchase: [eBay UK - Preconfigured](https://www.ebay.co.uk/itm/126474480322).
+🛍️ I have a small number of pre-rooted units available for purchase: [eBay UK - Preconfigured](https://www.ebay.co.uk/usr/diggfan).
 
 I also offer a mail-in rooting service if you own a Lenovo Smart Clock 2 already: [eBay UK - Mail-In Rooting Service](https://www.ebay.co.uk/itm/126451518727)
 
